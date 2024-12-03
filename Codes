@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Surpresa!</title>
+    <link rel="stylesheet" type="text/css" href="importante.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Você é a pessoa mais linda desse mundo?</h1>
+        <div class="buttons">
+            <button id="no-btn">Sou n vei</button>
+            <button id="yes-btn">Claro que sim</button>
+        </div>
+        <div class="popup" id="popup">
+            <p>Isso ai, nada de negar!</p>
+        </div>
+    </div>
+    <script src="importante.js"></script>
+</body>
+</html>
